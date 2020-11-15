@@ -5,11 +5,16 @@ Used OpenWeatherMap API for weather data and Spectre for the CSS.
 To run (Hope this works..)
 
 -Download the repo. 
+
 -Have nodejs installed.
+
 -In the root folder, in your command line run the command 'npm install' 
+
 -After everything has installed - get an api key for OpenWeatherMap for free (https://openweathermap.org/api)
+
 -Put this api key in your env_sample file, and change its name to .env
--Run 'npm start' in your command line to run the project on your localhost
+
+-Run 'npm start' in your command line to run the project on your localhost.
 
 Improvements that could be made :
 
